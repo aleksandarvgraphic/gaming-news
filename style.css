@@ -35,7 +35,6 @@
 .nav-item a:hover::after{
    width: 100%;
    transition: width 0.3s linear;
-   margin-top: 5px;
   
 }
 @media only screen and (max-width: 576px) {
